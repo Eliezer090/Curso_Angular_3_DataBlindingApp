@@ -30,3 +30,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Explicação
 
 Data Blinding é uma caracteristica de transferencia de dados utilizando o NgModel para carregar os dados e fazer a comunicação entre back e front.
+<br>
+14. Interpolação de String<br>
+15. Property Binding<br>
+16. Event Binding<br>
+17. Event Binding com parâmetros<br>
+18. Event Binding com Property Binding<br>
+19. Two Way Data Binding - Parte 1 <br>
+20. Two Way Data Binding - Parte 2
